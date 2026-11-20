@@ -106,6 +106,27 @@ Install Tesseract using the UB-Mannheim installer. Select Hindi and Marathi lang
 brew install tesseract tesseract-lang
 ```
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/1.png)
+
+### Admin Panel
+![Admin Panel](screenshots/4.png)
+
+### Document Upload
+![Document Upload](screenshots/4.png)
+
+### Indexing
+![Document Upload](screenshots/5.png)
+
+### Eligibility Criteria Review
+![Eligibility Criteria Review](screenshots/6.png)
+
+### Scheme Matching Results
+![Scheme Matching Results](screenshots/2.png)
+![Scheme Matching Results](screenshots/3.png)
+
 ## Note
 
 Eligibility results are indicative and based on the information and criteria available in the uploaded scheme documents. Final eligibility and approval are determined by the respective government authorities.
