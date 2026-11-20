@@ -1,0 +1,8 @@
+streamlit
+google-genai
+pymupdf
+pytesseract
+pillow
+fastembed
+chromadb
+numpy
