@@ -106,19 +106,6 @@ Install Tesseract using the UB-Mannheim installer. Select Hindi and Marathi lang
 brew install tesseract tesseract-lang
 ```
 
-## Technologies Not Used
-
-- Gradio
-- OpenAI API
-- Claude API
-- Groq API
-- Ollama
-- FAISS
-- LangChain
-- LlamaIndex
-
-The application uses a custom Python-based RAG pipeline instead of a RAG framework.
-
 ## Note
 
 Eligibility results are indicative and based on the information and criteria available in the uploaded scheme documents. Final eligibility and approval are determined by the respective government authorities.
